@@ -372,6 +372,9 @@ footer .credit a {
   .contact .row form {
     padding-top: 0;
   }
+  .hero .content .cta {
+    background-color: #6579a5;
+  }
 }
 
 /* mobile */
